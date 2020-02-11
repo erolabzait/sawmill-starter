@@ -15,4 +15,5 @@ fields:
   - hero-section
 pages:
 - content/_index.md
+- content/sawmill-a-modular-layout-builder-for-hugo-and-forestry-io-1.md
 - content/sawmill-a-modular-layout-builder-for-hugo-and-forestry-io.md
