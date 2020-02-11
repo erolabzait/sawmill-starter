@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "testing"
 type = "page"
 [[blocks]]
